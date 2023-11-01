@@ -1,7 +1,7 @@
 Hi 👋 My name is Rafael Dias
 ===================================================================================================================================
 
-Student.Developer
+Student and Developer
 -----------------
 
 * 🌍  I'm based in Lisbon, Portugal
