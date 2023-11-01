@@ -6,7 +6,7 @@ Student.Developer
 
 * 🌍  I'm based in Lisbon, Portugal
 * 🚀  I'm currently working on [Youtube Downloader](http://github.com/RafaelAlexDias/Youtube-Downloader)
-* 🧠  I'm learning Python and Java
+* 🧠  I'm learning Java, HTML and GDScript
 
 ### Skills
 
