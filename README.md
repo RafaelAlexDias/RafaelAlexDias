@@ -6,7 +6,7 @@ Student and Developer
 
 * 🌍  I'm based in Lisbon, Portugal
 * 🚀  I'm currently working on a AudioDrama App
-* 🧠  I'm learning Java, HTML, GDScript and React Native
+* 🧠  I'm learning Java, HTML, GDScript and Flutter
 
 ### Skills
 
